@@ -1,5 +1,5 @@
 {
-  "name": "yt-finder-js-example",
+  "name": "yt-finder-js",
   "version": "1.0.0",
   "description": "A JavaScript library for searching YouTube videos without the API.",
   "main": "yt_finder.js",

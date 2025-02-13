@@ -1,0 +1,30 @@
+{
+  "name": "yt-finder-js-example",
+  "version": "1.0.0",
+  "description": "A JavaScript library for searching YouTube videos without the API.",
+  "main": "yt_finder.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "search",
+    "video",
+    "api",
+    "scraper"
+  ],
+  "author": "Weever <weever1337@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Weever1337/yt-finder-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Weever1337/yt-finder-js/issues"
+  },
+  "homepage": "https://github.com/Weever1337/yt-finder-js#readme"
+}
